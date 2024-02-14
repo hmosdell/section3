@@ -1,0 +1,11 @@
+// 3 part struct exercise for section
+
+// PART 1 : Create a struct in a program called candidate.c to represent a candidate in an election that includes:
+// The candidate's name 
+// The candidate’s number of votes
+
+// PART 2 : Create your own get_candidate function that prompts the user to input attributes for a candidate 
+// You may rely on get_string, get_int, etc., and your function should return a candidate
+
+// PART 3 : Use your get_candidate function to create an array of three candidates, each of which should have attributes input by the user.
+
